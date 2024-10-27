@@ -2,4 +2,4 @@ import sys
 import time
 
 print("Good day & Hello Rahim")
-lib.types("Electronics")
+lib.types("Electrical")
